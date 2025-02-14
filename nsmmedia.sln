@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nsmmedia", "nsmmedia\nsmmedia.csproj", "{D2AB0527-5771-4187-8E99-B6F265B45505}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2AB0527-5771-4187-8E99-B6F265B45505}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2AB0527-5771-4187-8E99-B6F265B45505}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2AB0527-5771-4187-8E99-B6F265B45505}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2AB0527-5771-4187-8E99-B6F265B45505}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AA6197F-2D31-4AEB-9F53-80837855843D}
+	EndGlobalSection
+EndGlobal
